@@ -1,5 +1,5 @@
 # kubernetes-containers-tutorials
-Basic tutorials to set up and play around with a kubernetes cluster (using kind)
+Basic tutorials to set up and play around with a kubernetes cluster (using [kind](https://kind.sigs.k8s.io/))
 
 ## Steps
 1. [Pre-reqs](./setup/install-kind-kubectl.md): Install the required kind and kubectl tools.
