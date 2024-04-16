@@ -18,7 +18,7 @@ kind load docker-image demo-flask-app:0.1.0 --name my-cluster
 Depending on your system, this might take a minute or two.
 
 ## Configuring our application deployment
-A simple deployment configuration for k8s looks like:
+A simple pod configuration for k8s looks like:
 
 ```yaml
 apiVersion: v1
